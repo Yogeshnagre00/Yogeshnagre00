@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Nagre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://pngtree.com/freebackground/web-development-concept-programming-and-coding-illustrated-in-3d_13269446.html" width ="450px" align="right" >
+<img src="https://user-images.githubusercontent.com/79409258/227697539-e4aa8792-dae8-49dc-84a1-746028d22192.png" width ="450px" align="right" >
 - 🌱 I’m currently learning **NodeJs**
 
 - 👯 I’m looking to collaborate on **Frontend Devloper**
