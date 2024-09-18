@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yogeshnagre00](https://github.com/Yogeshnagre00)
 
-- 💬 Ask me about **RectJs**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **yogeshnagre000@gmail.com**
 
