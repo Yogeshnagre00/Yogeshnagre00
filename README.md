@@ -1,43 +1,85 @@
-<h1 align="center">Hi 👋, I'm Yogesh Nagre</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" >
-- 🌱 I’m currently learning **Java(SpringBoot)**
+<h1 align="center">🚀 Yogesh Nagre — Turning Code into Impact</h1>
 
-- 👯 I’m looking to collaborate on **Frontend Devloper**
-
-- 🤝 I’m looking for help with **ReactJs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Yogeshnagre00](https://github.com/Yogeshnagre00)
-
-- 💬 Ask me about **ReactJs**
-
-- 📫 How to reach me **yogeshnagre000@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11wFb0EYyz6P_aaTer8AQxqRixHHfM8mB/view?usp=sharing](https://drive.google.com/file/d/11wFb0EYyz6P_aaTer8AQxqRixHHfM8mB/view?usp=sharing)
-
-- ⚡ Fun fact **I am just starting Youtube Channel**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yogesh-nagre27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yogesh-nagre27" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-### 📈 GitHub Stats & Snake Contribution:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshnagre00&show_icons=true&theme=radical" alt="Yogesh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yogeshnagre00&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yogeshnagre00&theme=radical" alt="Profile Details" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Crafting+React+%2B+Node+Apps;Loves+Java+%7C+Spring+Boot;Learning+Every+Day+%F0%9F%93%9A;Open+to+Collab+and+Growth+%F0%9F%92%AA" />
 </p>
 
 ---
 
-### 🐍 GitHub Snake Contribution:
-```html
+### ✨ About Me
+
+🎓 A tech explorer from **Raigaon, Maharashtra**,  
+📅 Graduated in 2022 from **Dr. Babasaheb Ambedkar Marathwada University**  
+🔧 I build full-stack projects using **React**, **Node.js**, and **Java Spring Boot**  
+🛠️ Also hands-on with **MongoDB**, **PostgreSQL**, and **API Testing**  
+📈 Passionate about **clean code**, real-world use cases & strong UI/UX
+
+---
+
+### 💼 What I’m Up To
+
+- 👨‍💻 Building **Claud_Kitchen** — a full-stack Cloud Kitchen management system  
+- 📦 Architecting a **role-based platform** with Super Admin & Merchants  
+- 🧪 Implementing **secure auth**, **cart/order management**, and **area-wise filters**
+- 📚 Polishing my backend with **Java Spring Boot APIs** & **PostgreSQL schemas**
+
+---
+
+### 🧰 Tech Toolbox
+
+**Languages:**  
+`Java` `JavaScript` `C++` `SQL`  
+
+**Frontend:**  
+React · Redux · HTML5 · CSS3 · Tailwind · Material-UI  
+
+**Backend:**  
+Node.js · Express · Spring Boot · REST APIs  
+
+**Database:**  
+MongoDB · MySQL · PostgreSQL  
+
+**Tools & Other:**  
+Git · GitHub · Postman · Vite · VS Code  
+
+---
+
+### 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github.com/Yogeshnagre00/Yogeshnagre00/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshnagre00&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshnagre00&theme=tokyonight" alt="Streak Stats" />
 </p>
+
+---
+
+### 🌍 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yogesh-nagre27)  
+- 📧 yogeshnagre000@gmail.com  
+- 📄 [Resume](https://drive.google.com/file/d/11wFb0EYyz6P_aaTer8AQxqRixHHfM8mB/view?usp=sharing)
+
+---
+
+### 🔥 Quick Facts
+
+- 🔭 I completed a freelance project named **AspireQ**
+- ☁️ I love **thinking in systems** and drawing out workflows
+- 💡 Trying to launch my **YouTube channel** soon!
+- 🚴‍♂️ My best coding ideas come while walking or biking 😄
+
+---
+
+### 🐍 Contribution Snake (optional)
+
+<!-- Replace with actual animation if using GitHub Actions -->
+<p align="center">
+  <img src="https://github.com/Yogeshnagre00/Yogeshnagre00/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+💬 *“Great developers are not those who know everything, but those who never stop learning.”*  
+Let’s build something meaningful together!
+
