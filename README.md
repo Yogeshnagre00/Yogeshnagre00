@@ -44,7 +44,11 @@ Full Stack Developer | React • Spring Boot • PostgreSQL
 ## 📅 Contribution Calendar
 
 <p align="center">
-<img src="https://ghchart.rshah.org/409ba5/Yogeshnagre00" width="100%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Yogeshnagre00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-calendar.svg" alt="Contribution Calendar" />
 </p>
 
 ---
@@ -59,7 +63,7 @@ Full Stack Developer | React • Spring Boot • PostgreSQL
 
 ## 🐍 Contribution Snake
 
-> Enable the snake workflow to generate this animation automatically.
+> The snake workflow (`.github/workflows/snake.yml`) auto-generates this animation daily.
 
 <p align="center">
 <picture>
