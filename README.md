@@ -1,169 +1,129 @@
-<h1 align="center">Hi 👋, I'm Yogesh Nagre</h1>
-
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Yogesh Nagre
+```{=html}
+</h1>
+```
+```{=html}
 <h3 align="center">
-Full Stack Developer | React • Spring Boot • PostgreSQL • Docker
+```
+Full Stack Developer \| React • Spring Boot • PostgreSQL
+```{=html}
 </h3>
-
+```
+```{=html}
 <p align="center">
-Building scalable web applications with modern technologies.
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Building+Production+Ready+Applications" />`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full Stack Developer from India
-- 🌱 Currently learning **Spring Boot Microservices & System Design**
-- 🔥 Passionate about building production-ready applications
-- 📚 Exploring Cloud, Docker, AWS and scalable backend architecture
-- 🎯 Goal: Become a world-class Full Stack Engineer
+-   🚀 Full Stack Developer from India
+-   🌱 Working primarily with **React, Spring Boot and PostgreSQL**
+-   ☁️ Interested in scalable backend systems, cloud deployment and
+    modern web apps.
+-   💬 Ask me about React, Java, Spring Boot, REST APIs and PostgreSQL.
 
----
+------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,js,bootstrap,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,linux,nginx" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🍽 WaitPlease
-
-Restaurant Waiting & Billing Platform
-
-### Features
-
-- QR Menu Ordering
-- Waitlist Management
-- WhatsApp Bill Notification
-- UPI Payment Integration
-- Restaurant Dashboard
-- Customer Mobile Experience
-- Multi Tenant Architecture
-
-**Tech**
-
+```{=html}
+<p align="center">
 ```
-React
-Spring Boot
-PostgreSQL
-Docker
-AWS
-Meta WhatsApp Cloud API
-Redis
+`<img src="https://skillicons.dev/icons?i=java,spring,react,redux,js,ts,html,css,tailwind,nodejs,postgres,mysql,docker,aws,git,github,linux,postman,vscode" />`{=html}
+```{=html}
+</p>
 ```
 
----
+------------------------------------------------------------------------
 
-## 🍔 Cloud Kitchen Platform
+## 📊 GitHub Statistics
 
-Complete SaaS platform for restaurants.
-
-### Features
-
-- Restaurant Website
-- Online Ordering
-- Merchant Dashboard
-- Payment Integration
-- Product Management
-- RBAC Authentication
-- Theme Customization
-
----
-
-## 🏢 Society Management System
-
-Currently Building
-
-Features
-
-- Resident Management
-- Visitor Management
-- Notice Board
-- Complaints
-- Maintenance Billing
-- Security Dashboard
-
----
-
-# 📈 GitHub Stats
-
+```{=html}
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogeshnagre00&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshnagre00&theme=tokyonight"/>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogeshnagre00&show_icons=true&theme=tokyonight&hide_border=true" />`{=html}
+`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshnagre00&theme=tokyonight&hide_border=true" />`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshnagre00&layout=compact&theme=tokyonight"/>
-
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshnagre00&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🌍 Connect with Me
+## 📅 Contribution Calendar
 
-<p>
-
-<a href="https://github.com/Yogeshnagre00">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/yogesh-nagre27">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-</p>
-
-📧 **Email**
-
-yogeshnagre000@gmail.com
-
----
-
-# 📺 Currently
-
-- 🌱 Learning Spring Boot
-- 🏗 Building scalable SaaS applications
-- 🚀 Working on production-level backend systems
-- 🎥 Starting a YouTube channel
-
----
-
-# 💡 Favorite Quote
-
-> "Code is easy. Building reliable software is the real challenge."
-
----
-
+```{=html}
 <p align="center">
-
-⭐ If you like my projects, consider giving them a star!
-
+```
+`<img src="https://ghchart.rshah.org/409ba5/Yogeshnagre00" width="100%" />`{=html}
+```{=html}
 </p>
+```
+
+------------------------------------------------------------------------
+
+## 📈 Activity Graph
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshnagre00&theme=tokyo-night&hide_border=true" />`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🐍 Contribution Snake
+
+> Add the GitHub Actions workflow (`.github/workflows/snake.yml`) to
+> generate the snake animation automatically.
+
+```{=html}
+<p align="center">
+```
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake-dark.svg">`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake.svg">`{=html}
+`<img alt="Snake" src="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake.svg">`{=html}
+`</picture>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🌐 Connect With Me
+
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/Yogeshnagre00">`{=html}`<img src="https://skillicons.dev/icons?i=github"/>`{=html}`</a>`{=html}
+`<a href="mailto:yogeshnagre000@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+⭐ Thanks for visiting my profile!
+```{=html}
+</p>
+```
