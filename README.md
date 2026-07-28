@@ -41,10 +41,10 @@ Full Stack Developer | React • Spring Boot • PostgreSQL
 
 ---
 
-## 📅 Contribution Calendar
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yogeshnagre00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yogeshnagre00&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
