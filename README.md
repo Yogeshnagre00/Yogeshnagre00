@@ -1,90 +1,223 @@
-<h1 align="center">Hi 👋, I'm Yogesh Nagre</h1>
+<h1 align="center">
+Hi 👋, I'm Yogesh Nagre
+</h1>
 
 <h3 align="center">
-Full Stack Developer | React • Spring Boot • PostgreSQL
+Full Stack Developer • React • Spring Boot • PostgreSQL
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Building+Production+Ready+Applications" alt="Typing SVG" />
+Building scalable, production-ready web applications.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+Developer;Backend+Architecture+Enthusiast;Building+Production+Ready+Applications;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yogeshnagre00&label=Profile%20Views&color=F59E0B&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Yogeshnagre00?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/Yogeshnagre00?affiliations=OWNER&style=for-the-badge&color=yellow"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🚀 Full Stack Developer from India
-- 🌱 Currently building scalable applications using **React**, **Spring Boot**, and **PostgreSQL**
-- ☁️ Interested in Cloud, Microservices, System Design and Backend Architecture
-- 💬 Ask me about **React, Java, Spring Boot, REST APIs, PostgreSQL**
-- 📚 Always learning new technologies and improving software architecture
+🚀 Full Stack Developer from India
+
+💻 Building scalable applications using React, Spring Boot & PostgreSQL
+
+☁️ Interested in
+
+- Cloud Computing
+- Backend Architecture
+- System Design
+- Microservices
+
+🌱 Currently Learning
+
+- Docker
+- AWS
+- Kubernetes
+- CI/CD
+- Distributed Systems
+
+💬 Ask me about
+
+- React
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Java
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏢 Society Management
+
+Modern Society Management Platform
+
+- React
+- Spring Boot
+- PostgreSQL
+- JWT
+- RBAC
+
+</td>
+
+<td width="50%">
+
+### 🍽 WaitPlease
+
+Restaurant Waitlist System
+
+- React
+- Spring Boot
+- WhatsApp API
+- PostgreSQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🍔 Cloud Kitchen
+
+Restaurant Ordering Platform
+
+- React
+- Spring Boot
+- AWS
+- PostgreSQL
+
+</td>
+
+<td>
+
+### 🍴 Catering Management
+
+Production Ready Catering ERP
+
+Currently under development
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,spring,react,redux,js,ts,html,css,tailwind,nodejs,postgres,mysql,docker,aws,git,github,linux,postman,vscode" />
+
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 💼 Development Workflow
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogeshnagre00&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=Yogeshnagre00&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshnagre00&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+```text
+Idea
+ │
+ ▼
+UI Design
+ │
+ ▼
+React Frontend
+ │
+ ▼
+Spring Boot Backend
+ │
+ ▼
+REST API
+ │
+ ▼
+PostgreSQL
+ │
+ ▼
+Docker
+ │
+ ▼
+AWS Deployment
+```
 
 ---
 
-## 🏆 Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yogeshnagre00&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshnagre00&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-> The snake workflow (`.github/workflows/snake.yml`) auto-generates this animation daily.
+# 🐍 Contribution Snake
 
 <p align="center">
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake.svg">
-<img alt="Snake animation" src="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake.svg">
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake.svg"/>
+
 </picture>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Fun Facts
+
+🚀 I enjoy building complete backend systems.
+
+☕ Coffee + Music = Coding
+
+📚 Always learning new technologies.
+
+🎯 Goal: Build products used by millions.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Yogeshnagre00">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-&nbsp;&nbsp;
+
 <a href="mailto:yogeshnagre000@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+&nbsp;
+
+<a href="https://github.com/Yogeshnagre00">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
-</p> 
+
+✨ Thanks for visiting my profile ✨
+
+</p>
