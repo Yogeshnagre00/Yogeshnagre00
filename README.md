@@ -32,7 +32,7 @@ Full Stack Developer | React • Spring Boot • PostgreSQL
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogeshnagre00&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshnagre00&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Yogeshnagre00&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -45,10 +45,6 @@ Full Stack Developer | React • Spring Boot • PostgreSQL
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Yogeshnagre00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-calendar.svg" alt="Contribution Calendar" />
 </p>
 
 ---
