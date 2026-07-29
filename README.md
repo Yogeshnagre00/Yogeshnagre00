@@ -1,223 +1,220 @@
-<h1 align="center">
-Hi 👋, I'm Yogesh Nagre
-</h1>
+# Hi 👋, I'm Yogesh Nagre
 
-<h3 align="center">
-Full Stack Developer • React • Spring Boot • PostgreSQL
-</h3>
+**Full Stack Developer • React • Spring Boot • PostgreSQL**
 
-<p align="center">
-Building scalable, production-ready web applications.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+Developer;Backend+Architecture+Enthusiast;Building+Production+Ready+Applications;Always+Learning+Something+New" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yogeshnagre00&label=Profile%20Views&color=F59E0B&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Yogeshnagre00?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/Yogeshnagre00?affiliations=OWNER&style=for-the-badge&color=yellow"/>
-</p>
+Building scalable, production-ready web applications with 2 years of hands-on experience in backend architecture and full-stack development.
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 What I Actually Build
 
-🚀 Full Stack Developer from India
+I don't just write code—I ship complete production systems handling real users, real transactions, and real business logic. 
 
-💻 Building scalable applications using React, Spring Boot & PostgreSQL
-
-☁️ Interested in
-
-- Cloud Computing
-- Backend Architecture
-- System Design
-- Microservices
-
-🌱 Currently Learning
-
-- Docker
-- AWS
-- Kubernetes
-- CI/CD
-- Distributed Systems
-
-💬 Ask me about
-
-- React
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- Java
+**3 Live Products**  
+✅ [The Tasty Food](https://thetastyfood.in/) - Multi-tenant Cloud Kitchen Platform  
+✅ [WaitPlease](https://waitplease.in/) - Restaurant Waitlist & QR Ordering System  
+✅ [AspireQ Society Management](https://aspireq.co.in/) - Complete Society/Community Platform
 
 ---
 
-# 🚀 Featured Projects
+## 💼 What I've Built
 
-<table>
-<tr>
+### 🍔 The Tasty Food - Cloud Kitchen Platform
+**Role:** Backend Development + Full Stack Contribution  
+**Live:** https://thetastyfood.in/
 
-<td width="50%">
+Multi-tenant restaurant ordering platform handling real daily orders from multiple restaurants.
 
-### 🏢 Society Management
+**Backend Architecture:**
+- REST APIs for menu management, orders, payments, and delivery tracking
+- Multi-tenant database design with PostgreSQL
+- Authentication & role-based access control (Admin, Manager, Staff, Customer)
+- Billing and payment processing
+- Third-party integrations
+- AWS deployment
 
-Modern Society Management Platform
+**Frontend Contribution:**
+- React components for restaurant dashboards
+- Order management interfaces
+- Real-time order tracking
 
-- React
-- Spring Boot
-- PostgreSQL
-- JWT
-- RBAC
-
-</td>
-
-<td width="50%">
-
-### 🍽 WaitPlease
-
-Restaurant Waitlist System
-
-- React
-- Spring Boot
-- WhatsApp API
-- PostgreSQL
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🍔 Cloud Kitchen
-
-Restaurant Ordering Platform
-
-- React
-- Spring Boot
-- AWS
-- PostgreSQL
-
-</td>
-
-<td>
-
-### 🍴 Catering Management
-
-Production Ready Catering ERP
-
-Currently under development
-
-</td>
-
-</tr>
-</table>
+**Tech Stack:** Spring Boot • React • PostgreSQL • AWS • Docker
 
 ---
 
-# 🛠 Tech Stack
+### 📱 WaitPlease - Restaurant Waitlist & Ordering
+**Role:** Backend Development + Full Stack Contribution  
+**Live:** https://waitplease.in/
 
-<p align="center">
+Restaurant waitlist management system with QR-based ordering and WhatsApp notifications.
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,redux,js,ts,html,css,tailwind,nodejs,postgres,mysql,docker,aws,git,github,linux,postman,vscode" />
+**Backend Architecture:**
+- Spring Boot REST APIs for waitlist management
+- QR code generation and validation
+- WhatsApp API integration for automated notifications
+- Queue management algorithms
+- PostgreSQL data persistence
+- JWT authentication
 
-</p>
+**Frontend Contribution:**
+- React UI for customer waiting experience
+- Restaurant staff dashboard
+- Admin management panel
+
+**Key Features:**
+- Real-time waitlist updates
+- Automated customer notifications via WhatsApp
+- Table management and capacity tracking
+- Integration with restaurant systems
+
+**Tech Stack:** Spring Boot • React • PostgreSQL • WhatsApp API • Docker
 
 ---
 
-# 💼 Development Workflow
+### 🏢 AspireQ - Society Management Platform
+**Role:** Backend Development + Full Stack Contribution  
+**Live:** https://aspireq.co.in/
 
-```text
-Idea
- │
- ▼
-UI Design
- │
- ▼
-React Frontend
- │
- ▼
-Spring Boot Backend
- │
- ▼
-REST API
- │
- ▼
-PostgreSQL
- │
- ▼
-Docker
- │
- ▼
+Complete society/apartment complex management system for managing residents, maintenance, complaints, and billing.
+
+**Backend Architecture:**
+- Spring Boot microservices for different modules
+- Complex RBAC system (Secretary, Treasurer, Resident, Staff roles)
+- Multi-level approval workflows
+- Maintenance request tracking
+- Billing and payment management
+- PostgreSQL relational database design
+
+**Frontend Contribution:**
+- React dashboard for residents
+- Staff and admin management interfaces
+- Real-time notifications
+- Data visualization and reporting
+
+**Key Features:**
+- Resident management with role-based access
+- Complaint/maintenance ticketing system
+- Billing and payment tracking
+- Community announcements
+- Expense management
+
+**Tech Stack:** Spring Boot • React • PostgreSQL • JWT • RBAC
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Java, Spring Boot, Spring Data JPA
+- REST APIs, JWT Authentication
+- PostgreSQL, MySQL
+
+**Frontend**
+- React, Redux, JavaScript, TypeScript
+- HTML, CSS, Tailwind CSS
+- Responsive UI Design
+
+**DevOps & Infrastructure**
+- Docker, Docker Compose
+- AWS (EC2, S3, RDS)
+- Linux, Git, GitHub
+
+**Tools & Platforms**
+- Postman (API testing)
+- VS Code
+- GitHub
+
+---
+
+## 💡 Development Workflow
+
+```
+Project Requirement
+        ↓
+Database Schema Design
+        ↓
+Backend API Development (Spring Boot)
+        ↓
+Frontend Development (React)
+        ↓
+Testing & Integration
+        ↓
+Docker Containerization
+        ↓
 AWS Deployment
+        ↓
+Production Monitoring
 ```
 
 ---
 
-# 📈 Contribution Graph
+## 📈 GitHub Contributions
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshnagre00&theme=tokyo-night&hide_border=true"/>
-
-</p>
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Yogeshnagre00&theme=tokyo-night&hide_border=true)
 
 ---
 
-# 🐍 Contribution Snake
+## 👨‍💻 About Me
 
-<p align="center">
+🚀 **Full Stack Developer** from Pune, India  
+💻 **2 years** of hands-on experience building production systems  
+⚙️ **Backend Focus** - I love designing scalable REST APIs and database architectures  
+🔧 **Problem Solver** - I focus on writing maintainable, clean code that solves real business problems
 
-<picture>
+**What I Actually Know:**
+- Designing scalable backend systems with Spring Boot
+- Building REST APIs with proper authentication & authorization
+- Database design with PostgreSQL
+- Full-stack development (backend + React frontend)
+- Deployment and containerization with Docker
+- AWS basics (EC2, S3, RDS)
+- System design and architecture decisions
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake-dark.svg">
+**Currently Learning:**
+- Microservices patterns and communication
+- Advanced AWS services
+- Kubernetes and container orchestration
+- CI/CD pipelines
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake.svg">
-
-<img src="https://raw.githubusercontent.com/Yogeshnagre00/Yogeshnagre00/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</p>
-
----
-
-# ⚡ Fun Facts
-
-🚀 I enjoy building complete backend systems.
-
-☕ Coffee + Music = Coding
-
-📚 Always learning new technologies.
-
-🎯 Goal: Build products used by millions.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:yogeshnagre000@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Yogeshnagre00">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+**Ask Me About:**
+- Spring Boot and REST API design
+- React development and state management
+- PostgreSQL and database optimization
+- Full-stack development workflow
+- Docker and basic deployment
+- Building production-ready applications
 
 ---
 
+## 🎯 Key Achievements
+
+✅ **3 production systems** deployed and serving real users  
+✅ **Multi-tenant architecture** handling multiple business entities  
+✅ **Complex RBAC systems** managing role-based access control  
+✅ **Third-party integrations** (WhatsApp, Payment gateways)  
+✅ **AWS deployment** with Docker containerization  
+✅ **2 years of shipping** scalable applications  
+
+---
+
+## 💬 Let's Connect
+
+📧 **Email:** [yogeshnagre000@gmail.com](mailto:yogeshnagre000@gmail.com)  
+🔗 **GitHub:** [@Yogeshnagre00](https://github.com/Yogeshnagre00)  
+
+---
+
+## 📝 Notes
+
+- I believe in building **complete systems**, not just features
+- I focus on **clean code** and **maintainability**
+- I own the **entire development lifecycle** - from design to deployment
+- I'm always **learning** and improving my craft
+
+**⭐ If you find any of my work interesting, feel free to star it on GitHub!**
+
+---
+
 <p align="center">
-
-✨ Thanks for visiting my profile ✨
-
+  Built with ☕ and 💻
 </p>
